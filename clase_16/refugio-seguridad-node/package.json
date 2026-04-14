@@ -1,0 +1,15 @@
+{
+  "name": "refugio-seguridad-node",
+  "version": "1.0.0",
+  "description": "Proyecto de seguridad en Node.js - Refugio de animales",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.0"
+  }
+}
